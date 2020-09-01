@@ -11,7 +11,6 @@ public class Manager {
     }
 
     public void delete(int ownerId, int postId) {
-
     }
 }
 
